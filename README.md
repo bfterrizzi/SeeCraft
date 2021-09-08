@@ -8,3 +8,5 @@ You may link to the application here: https://share.streamlit.io/bfterrizzi/seec
 Have fun testing these and other images and let me know if you get some surprising results!
 
 
+NOTE: If the application fails to load (usually indicated by am "OH NO!" message), this is most likely due to monthly bandwidth constraints in Git's large file storage (due to Seecraft's model size). I intend to upgrade this bandwidth contsraints in the future. 
+
