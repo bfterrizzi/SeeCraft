@@ -1,7 +1,7 @@
 # SeeCraft
 
 SeeCraft is an image classification algorithm that detects the presence of ships in satellite imagery.   
-This repository contains a folder of test images which you may use, but feel free to use images of your own.    
+This repository contains a folder of test images which you may use as input to the algorithm, but feel free to use images of your own.    
    
 You can access the SeeCraft application here: https://share.streamlit.io/bfterrizzi/seecraft/main.
    
